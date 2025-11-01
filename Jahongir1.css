@@ -1,0 +1,35 @@
+.Jahongir{
+    background-color:cadetblue;
+    border-radius: 5px;
+}
+.web{
+    color: white;
+    float: left;
+}
+.rasm{
+    height: 70px;
+    width: 70px;
+    padding: 5px;
+    float: left;
+}
+.box{
+   text-align: right;
+   padding: 30px;
+}
+.box a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.key{
+    height: 900px;
+}
+.charijili{
+    color: white;
+    
+}
+.beb{
+    color: white;
+    padding: 200px;
+    padding-right: 40px;
+}

@@ -1,0 +1,8 @@
+.box{
+    background-image: url(Img/Soothing-nature-backgrounds-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;       
+    background-position: center; 
+    min-height: 100vh;            
+    margin: 0;
+}

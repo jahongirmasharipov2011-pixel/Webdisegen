@@ -1,0 +1,32 @@
+.box{
+    background-color: gray;
+    height: 70px;
+}
+.box1{
+    float: left;
+    color: white;
+}
+.az{
+    text-align: right;
+    padding-top: 30px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.jek{
+    text-align: center;
+    color: white;
+    background-image: url(Rasmlar/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg);
+}
+.nav{
+    height: 50px;
+    padding: 10px;
+}
+.vad{
+    background-color: gray;
+    height: 70px;
+}
+.jui{
+    background-color: white;
+    
+}
